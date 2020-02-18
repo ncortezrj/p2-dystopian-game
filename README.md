@@ -1,2 +1,2 @@
-# Panopticon: an interactive fiction in a dystopian future of complete surveillance
+# Panopticon: an interactive fiction game
  
